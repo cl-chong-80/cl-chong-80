@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I made tons of comics when I was young. IT and art are still nice stuffs. I like myself. 😁
+- ⚡ Fun fact: I made tons of comics when I was young. IT and art are still nice stuffs.
+- Just trying to do better.
 
 <!---
 cl-chong-80/cl-chong-80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
